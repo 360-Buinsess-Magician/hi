@@ -81,7 +81,7 @@ Integration: Vocational Rehabilitation APIs, Workforce Solution Connectors
 
 ## 📱 Platform Access
 
-1. Create your profile at [platform.360businessmagician.com](#)
+1. Create your profile at [360magicians.mbtquniverse.com/accounts](#)
 2. Connect with your vocational rehabilitation counselor
 3. Select your pathway: Job Specialist or Business Development
 4. Access personalized resources and opportunities
