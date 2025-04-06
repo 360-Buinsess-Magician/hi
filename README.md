@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![License](https://img.shields.io/badge/license-MIT-ff00ff.svg?style=for-the-badge&logo=github)
-![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Mobile-ff00ff.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-Active-ff00ff.svg?style=for-the-badge)
 
 **AI-Powered Platform Connecting Deaf Professionals with Vocational Rehabilitation & Workforce Solutions**
 
