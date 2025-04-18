@@ -3,7 +3,7 @@
 <div align="center">
 
 
-**AI-Powered Platform Connecting Deaf Professionals with Vocational Rehabilitation & Workforce Solutions**
+**AI-Powered Platform Connecting Deaf Professionals with Self, Job and Business Networks
 
 [Website](#) • [Platform Demo](#) • [Request Access](#) • [Documentation](#)
 
@@ -11,7 +11,7 @@
 
 ## ✨ Project Vision
 
-**360 Magicians** is revolutionizing how Deaf and hard of hearing individuals navigate career development and entrepreneurship through our AI-powered platform.
+**360 Magicians** is revolutionizing how Deaf and hard of hearing individuals navigate self growth, career development and entrepreneurship through our AI-powered platform.
 
 As a Deaf-owned and operated business, we provide specialized job and business development solutions through a centralized platform that transforms how professionals access resources, training, and opportunities.
 
